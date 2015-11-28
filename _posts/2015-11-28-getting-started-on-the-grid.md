@@ -1,11 +1,4 @@
 ---
-title: Getting Started on The Grid
-description: Click the pencil icon in the bottom left to read more...
-author: []
-datePublished: '2015-11-28T01:54:12.493Z'
-dateModified: '2015-11-28T01:47:32.198Z'
-sourcePath: _posts/2015-11-28-getting-started-on-the-grid.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
@@ -13,6 +6,13 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
+description: Click the pencil icon in the bottom left to read more...
+datePublished: '2015-11-28T01:58:43.262Z'
+dateModified: '2015-11-28T01:58:19.162Z'
+title: Hello World
+author: []
+sourcePath: _posts/2015-11-28-getting-started-on-the-grid.md
+published: true
 authors: []
 publisher:
   name: null
@@ -23,11 +23,11 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Getting Started on The Grid
+# Hello World
 
-Welcome to The Grid Beta, we're excited to have you onboard! Here are a few quick tips to get you up and running. 
+こんにちは。Gridです。
 
-## Creating a Site
+## 明日は晴れです。
 
 From your drafts dashboard, click the "Drafts" dropdown menu to reveal the site switcher. Select "Add a Site" to begin the site creation process.
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif)
