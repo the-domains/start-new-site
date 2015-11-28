@@ -2,6 +2,7 @@ name: Start New site
 favicon: null
 layout_spectrum: 0.9712248460855335
 typography_spectrum: 0.33116590860299766
+title: Start New Site
 cta:
   domain: null
   bucket: null
