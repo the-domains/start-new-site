@@ -1,6 +1,6 @@
 name: Start New site
 favicon: null
-layout_spectrum: 0.9712248460855335
+layout_spectrum: 0.24395
 typography_spectrum: 0.33116590860299766
 title: Start New Site
 cta:
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.42869613808579743
-  lightness: 0.25910444115288556
-  saturation: 0.3924244586378336
-  rhythmicContrast: 0.49880532710812986
+  brandStrength: 0.375
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
