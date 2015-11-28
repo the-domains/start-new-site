@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2015-11-28T01:58:43.262Z'
-dateModified: '2015-11-28T01:58:19.162Z'
+datePublished: '2015-11-28T02:07:48.757Z'
+dateModified: '2015-11-28T01:58:43.262Z'
 title: Hello World
 author: []
 sourcePath: _posts/2015-11-28-getting-started-on-the-grid.md
